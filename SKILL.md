@@ -1,7 +1,7 @@
 ---
 name: promptdna-mcp
 description: Search, fetch, compose, and contribute reusable AI prompt blocks through the PromptDNA MCP server (mcp.promptdna.org) — a community library of 950+ community-contributed prompt components spanning business, creative, financial, legal, medical, scientific, and software domains. Use this when a task calls for an existing well-tested prompt fragment (persona, constraint, eval, task template, etc.) or for assembling a full prompt from vetted parts rather than writing one from scratch. Every tool call is credit-metered — check the cost table below before calling anything.
-license: cc-by-sa-4.0
+license: mit
 ---
 
 # PromptDNA MCP Skill
