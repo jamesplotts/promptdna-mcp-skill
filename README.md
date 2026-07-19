@@ -1,7 +1,5 @@
 # PromptDNA MCP Skill
 
-![PromptDNA](https://promptdna.org/static/promptdna2.png)
-
 An [Agent Skill](https://github.com/anthropics/skills) that teaches an AI
 agent how to discover and use the **PromptDNA.org** MCP server — a community
 library of 950+ reusable, composable AI prompt blocks (persona, task,
