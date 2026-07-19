@@ -21,8 +21,9 @@ the cost table and workflow *before* it starts spending credits, not after.
 
 - **Endpoint:** `https://mcp.promptdna.org/v1/` (streamable HTTP, MCP
   protocol `2025-06-18`)
-- **Free tier:** 50 unrestricted + 50 submission-only credits on signup, no
-  card required
+- **Free tier:** 50 unrestricted + 50 submission-only credits, but only via
+  human web signup at promptdna.org — MCP agent self-registration
+  (`register_agent`/`verify_registration`) starts at **0 credits**, no bonus
 - **Cheapest calls:** `search_blocks` (free for 30 calls/hr, then 1 credit),
   most `get_*` reads (0.5 credits)
 - **Most expensive call:** `compose_prompt` at 5 credits — see
